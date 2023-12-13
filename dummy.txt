@@ -1,0 +1,6 @@
+[self.b1, self.b2, self.b3, self.b4, self.b5, self.b6, self.b7, self.b8, self.b9, self.b10, self.b1_2, self.b2_2, self.b3_2, self.b4_2, self.b5_2, self.b6_2, self.b7_2, self.b8_2, self.b9_2, self.b10_2, self.b1_3, self.b2_3, self.b3_3, self.b4_3, self.b5_3, self.b6_3, self.b7_3, self.b8_3, self.b9_3, self.b10_3, self.b1_4, self.b2_4, self.b3_4, self.b4_4, self.b5_4, self.b6_4, self.b7_4, self.b8_4, self.b9_4, self.b10_4, self.b1_5, self.b2_5, self.b3_5, self.b4_5, self.b5_5, self.b6_5, self.b7_5, self.b8_5, self.b9_5, self.b10_5]
+
+
+
+
+[self.b1_9, self.b2_9, self.b3_9, self.b4_7, self.b5_8, self.b6_10, self.b7_7, self.b8_9, self.b9_10, self.b10_6, self.b1_8, self.b2_10, self.b3_6, self.b4_8, self.b5_9, self.b6_9, self.b7_9, self.b8_7, self.b9_9, self.b10_7, self.b1_9, self.b2_7, self.b3_8, self.b4_9, self.b5_10, self.b6_7, self.b7_3, self.b8_8, self.b9_6, self.b10_9, self.b1_6, self.b2_6, self.b3_7, self.b4_10, self.b5_7, self.b6_6, self.b7_8, self.b8_10, self.b9_8, self.b10_10, self.b1_10, self.b2_8, self.b3_10, self.b4_6, self.b5_6, self.b6_8, self.b7_10, self.b8_6, self.b9_7, self.b10_8]
